@@ -1,0 +1,28 @@
+Potenciar Argentina
+FullCoders: Curso introductorio
+Comisión: 13/21607
+Agosto - Septiembre 2023
+
+
+Proyecto: Ad Libitum – Academia de música
+Trabajo Final
+
+Alumno: Bruno Ariel Garzón
+DNI: 32115945
+
+Tutor: Paula Revainera
+El trabajo detallado en las siguientes palabras tiene por finalidad simular la presentación de un programa para la gestión de alumnos en una institución de enseñanza musical llamada “Ad Libitum”. El programa en cuestión debe poder brindar a los asistentes las comisiones disponibles de clase, a partir de los instrumentos que se enseñan en la institución, asimismo, se espera que el alumnado pueda acceder a cierta información sobre canciones, artistas y teoría musical.
+El nombre de la institución, “Ad Libitum”, deriva de una expresión en latín que significa “a criterio del ejecutante”. Tal expresión suele utilizarse en partituras musicales con el fin de brindar una serie de indicaciones generales que se pueden ejecutar a tiempo y velocidad variables que son, como indica la expresión, a gusto del músico, pudiendo de tal manera generar su impronta en la ejecución de una obra musical. 
+El logo de la institución fue diseñado a partir de la aplicación “Canva” buscando despertar un aspecto jovial y juvenil que resulte llamativo y consonante con la marca.
+El programa solicitado debe llevar por lo tanto los siguientes ítems:
+•	Interfaz amigable
+•	Horarios de clase
+•	Acceso a diferentes géneros musicales, artistas característicos de cada género musical, canciones y partituras de los mismos
+•	Acceso a libros en formato digital, apuntes y otros documentos sobre teoría musical.
+Los asistentes deben ser capaces de poder elegir, a partir del instrumento que están aprendiendo, los horarios y días de clase que van a tomar. De la misma manera, deben poder acceder a obras completas y canciones sobre los artistas sobre los cuales aprenden, tanto para estudiar como con fines lúdicos y de entretenimiento. De la misma forma es que es menester generar un espacio, dentro del programa mismo, donde se pueda depositar información relacionada al estudio formal de la música, es decir, sobre teoría musical. 
+Para el abordaje y devenir del proyecto se va a utilizar la metodología “Kanban”. Se creará un tablero a través de la plataforma “Trello” donde cada persona interviniente en el proyecto deberá acceder con el fin, no solo de mantenerse al día con las tareas, sino asimismo poder aportar y generar un feedback fluido sobre el devenir del proyecto en general.
+El tablero Kanban debe actualizarse regularmente, permitiendo un constante devenir de las tareas, tanto a realizarse como anoticiándose sobre las que se encuentran en proceso. Es de tal manera que en el tablero se encuentran las siguientes columnas:
+	Lista de tareas: En ella se agregarán todas las tareas que aún están pendientes, siendo menester la conclusión de tareas “en curso” para poder acceder a una nueva en la presente lista.
+	En proceso: En la misma se anotarán las tareas que se encuentran en curso, es decir, que actualmente se está trabajando o llevando a cabo tal actividad.
+	En análisis: Aquí se situarán aquellas tareas ya resueltas, pero no concluidas, siendo un período de revisión y control sobre el resultado de la tarea ejecutada.
+	Hecho: Depositaria de aquellas tareas efectivamente resueltas y exitosamente cumplidas.
